@@ -1,4 +1,4 @@
-👋 Hi, I’m @serrabaysal
+👋 Hi, I’m Serra Baysal
 
 👀 I’m interested in technology, cultural heritage, and creative problem-solving.
 
