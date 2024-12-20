@@ -10,7 +10,7 @@
 
 📝 Fun fact: I also write poetry and enjoy creating meaningful experiences.
 
-📫 How to reach me: serrabaysal@gmail.com
+
 
 
 
