@@ -4,7 +4,7 @@
 <p align="center">
   💻 I love building projects, learning new technologies, and working on AI, web, and mobile development.<br/>
   🎓 I'm currently studying Software Engineering at Celal Bayar University.<br/>
-  💬 Ask me about: .NET, Node.js, Python, Machine Learning, SQL, and app development.<br/>
+  💬 Ask me about: .NET, Node.js, Python, Machine Learning, SQL.<br/>
   🌍 I'm always open to collaboration and learning from diverse projects.
 </p>
 
